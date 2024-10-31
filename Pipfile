@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+nltk = "*"
+streamlit = "*"
+matplotlib = "*"
+torch = "*"
+sentencepiece = "*"
+transformers = "*"
+plotly = "*"
 
 [dev-packages]
 
